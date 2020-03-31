@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠肅集
-#+DATE: 2020-03-31 11:38:42.991226
+#+DATE: 2020-03-31 11:38:43.058647
 #+PROPERTY: ID KR4e0239
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4e0239_WYG_000-1a>¶
 　　欽定四庫全書　　　　　集部六¶
